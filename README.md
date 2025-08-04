@@ -36,8 +36,11 @@ To create this dashboard I used Excel, ensuring accuracy and interactivity.
 #### 4. Concise wording for category column in 'in' table: 
 - Assigned same name for like items, for example Bakery and Bakery Goods etc
 
-#### 5. Create columns ready for analysis: 
-- Added columns to the 'in' table such as Segment, Revenue, COS, Profit and Red Flags. The red flag column was added as some costs had negative figures which after investigating with the team, I determined as an error, and will be using this column to filter out these anomalies when analysing the data
+#### 5. Anomalies:
+- Negative costs and sales figures investigation - these were confirmed as errors and were deleted from the dataset
+
+#### 6. Create columns ready for analysis: 
+- Added columns to the 'in' table such as Segment (from category column - the category column was then cleaned), Revenue, COS, Profit and Discount
 
 
 ### Data Analysis
@@ -52,34 +55,37 @@ To create this dashboard I used Excel, ensuring accuracy and interactivity.
 - Created graphs for dashboard using the pivot tables. I then used the chart design settings to customise the graph
   
 ### Final Dashboard
-![Aamina_Patel_Dashboard](https://github.com/user-attachments/assets/cabdcc48-afd2-47ad-9c49-a3fcebec6e45)
+
+<img width="1497" height="733" alt="Aamina_Patel_dashboard_ss" src="https://github.com/user-attachments/assets/70204617-1310-4590-9a89-aaf468f462f2" />
+
 
 ## Insights from the Dashboard
 The dashboard provides a comprehensive breakdown of sales, revenue, and regional performance. Key insights include:
 
 #### 1. Order & Revenue Trends
 - Total orders: 10,958
-- Revenue: £2,687,850.46
+- Revenue: £3,170,707.02
 - COS: £1,044,119.84
-- Gross Profit: £1,643,730.62
-Highest revenue was generated in 2024 and currently 2025 is underperforming compared to 2024.
+- Gross Profit: £2,126,587.18
+
+Highest profit was generated in 2024 and currently 2025 is underperforming compared to 2024.
   
 #### 2. Location-Based Profitability
-- Top-performing location: East Midlands generated the most profit at £268,446.22
-- Low-performing location: North East generated the least profit at £18,373.75
+- Top-performing location: East Midlands generated the most profit at £347,507.42
+- Low-performing location: North East generated the least profit at £24,537.47
 
 #### 3. Online vs Instore
 - 51% of revenue came from online orders showing a minor preference for online shopping
 
 #### 4. Revenue per Product
-- Top-performing products: Portable Solar Generator, Portable Refrigerator Freezer, Electric Bike, Digital Camera, Compact Dishwasher (High to Low)
-- Low-performing products: Cinnamon Raisin Bagels, Baking Soda, Canned Black Beans, Paprika, Instant Mashed Potatoes (Low to High)
+- Top-performing products: Portable Refrigerator Freezer, Portable Solar Generator, Electric Bike, Compact Digital Camera, Compact Dishwasher (High to Low)
+- Low-performing products: Baking Soda, Cinnamon Raisin Bagels, Paprika, Canned Black Beans, Instant Mashed Potatoes (Low to High)
 
 
 ## Conclusion & Recommendations
 
 #### Key Takeaways
-- Revenue in 2025 is lower than 2024
+- Profit in 2025 is lower than 2024
 - East Midlands is the region with the highest profitability and North East has the lowest
 - There is a slight preference towards online shopping
 - Revenue per product shows us that customers prefer our electronic items over food items
