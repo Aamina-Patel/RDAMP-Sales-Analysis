@@ -96,7 +96,7 @@ Highest profit was generated in 2024 and currently 2025 is underperforming compa
 - To boost online sales we could sell our high performing items at a discount on the ACE website
 - Increase our inventory of high performing products and try to phase out low performing products
 
-### Realcare Tech Mark Data Analyst Mentorship Programme
+## Realcare Tech Mark Data Analyst Mentorship Programme
 - Created by: Aamina Patel
 - Built with: Microsoft Excel (Pivot Tables)
 - Data Source: RealCare Tech Mark LTD
